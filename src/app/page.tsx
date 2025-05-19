@@ -36,7 +36,8 @@ const Home = () => {
 		</div>
 		<div className='flex  flex-col '>
 			click here to go to<Link className='underline' href={'/trials/'}> Trials</Link> <br />
-		   click here to go to<Link className='underline' href={'/works/'}> Works</Link>
+		   click here to go to<Link className='underline' href={'/works/'}> Works</Link> <br />
+		   click here to go to<Link className='underline' href={'/practice/'}> Practice</Link> <br />
 		</div>
 	</div>
   )
