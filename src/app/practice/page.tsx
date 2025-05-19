@@ -4,6 +4,8 @@ const PracticeLanding = () => {
   return (
 	<div>Practice Landing pages <br />
 		  <Link className='underline' href={'/practice/transform'}>Transform Things </Link> <br />
+
+		  <Link className='underline' href={'/practice/transition'}>Transition Things </Link> <br />
 		  
 	</div>
   )
