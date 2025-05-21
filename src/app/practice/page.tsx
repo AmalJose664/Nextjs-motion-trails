@@ -6,6 +6,7 @@ const PracticeLanding = () => {
 		  <Link className='underline' href={'/practice/transform'}>Transform Things </Link> <br />
 
 		  <Link className='underline' href={'/practice/transition'}>Transition Things </Link> <br />
+		  <Link className='underline' href={'/practice/keyframes'}>Keyframes Things </Link> <br />
 		  
 	</div>
   )
