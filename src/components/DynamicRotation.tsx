@@ -9,7 +9,7 @@ const DynamicRotation = () => {
   return (
 	<div>DynamicRotation <br />
 		<motion.div className="w-32 h-32 bg-blue-500 rounded" style={{rotate: rotation}} onClick={roateBox}>
-			clicl me!
+			click me!
 		</motion.div>
 	</div>
   )

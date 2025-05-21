@@ -1,6 +1,6 @@
 import Link from "next/link"
 
-const Keyframes = () => {
+const MotionValue = () => {
 	return (
 		<div>Keyframes <br />
 			<Link className='underline' href={'/practice/motion-value/drag-box'}>Draggable Box</Link> <br />
@@ -10,4 +10,4 @@ const Keyframes = () => {
 		</div>
 	)
 }
-export default Keyframes
+export default MotionValue

@@ -1,6 +1,6 @@
 import Link from "next/link"
 
-const Keyframes = () => {
+const StaggeredComp = () => {
 	return (
 		<div>Staggred  <br />
 			<Link className='underline' href={'/practice/staggered/img-glry'}>Staggered Image gallry</Link> <br />
@@ -12,4 +12,4 @@ const Keyframes = () => {
 		</div>
 	)
 }
-export default Keyframes
+export default StaggeredComp
