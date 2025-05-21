@@ -10,6 +10,7 @@ const PracticeLanding = () => {
 		  <Link className='underline' href={'/practice/variants'} >Variants Things </Link> <br />
 		  <Link className='underline' href={'/practice/gestures'} >Gesture Things </Link> <br />
 		  <Link className='underline' href={'/practice/staggered'} >Staggered Things </Link> <br />
+		  <Link className='underline' href={'/practice/motion-value'} >Use Motion value Things </Link> <br />
 
 		  
 		  
